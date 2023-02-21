@@ -11,7 +11,7 @@
 
 <p align="center">A simple and lightweight Go package that helps you translate Go programs into <a href="https://discord.com/developers/docs/reference#locales"> languages supported by Discord</a>.</p>
 
-## Feature
+## Features
 
 - Adapted from [kaysoro/discordgo-i18n](https://github.com/kaysoro/discordgo-i18n) for easy use with [disgo](https://github.com/disgoorg/disgo).
 - Supports multiple strings per key to make your bot "more alive".
